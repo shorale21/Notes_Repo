@@ -1,0 +1,109 @@
+{
+  "main": {
+    "id": "d6c61d7b7cc4b01d",
+    "type": "split",
+    "children": [
+      {
+        "id": "84cb7739f7f82901",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Laplace Transforms/Inverse Laplace Transforms.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a014ab313728984",
+    "type": "split",
+    "children": [
+      {
+        "id": "492bb680e746bd43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7aa767601ee118c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d0226dead31ddb6e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 196.00000190734863
+  },
+  "right": {
+    "id": "0f39d3d4b6240260",
+    "type": "split",
+    "children": [
+      {
+        "id": "16fdd8c0801b6930",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0aaf8b0bed46cff8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Laplace Transforms/Inverse Laplace Transforms.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3d8405bb157d1662",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "84cb7739f7f82901",
+  "lastOpenFiles": [
+    "Laplace Transforms/Inverse Laplace Transforms.md",
+    "Laplace Transforms/Special Laplace Part 1.md",
+    "Laplace Transforms/Laplace Transforms.md",
+    "Laplace Transforms/Differential Equations using Laplace Transforms.md",
+    "Set Theory/Sets.md",
+    "Laplace Transforms/Special Laplace Part 2.md",
+    "[!example]Definition.md",
+    "Pasted image 20220411205854.png"
+  ]
+}
