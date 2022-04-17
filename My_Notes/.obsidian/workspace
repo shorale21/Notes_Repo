@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Laplace Transforms/Inverse Laplace Transforms.md",
-            "mode": "source",
-            "source": false
+            "file": "Laplace Transforms/Differential Equations using Laplace Transforms.md",
+            "mode": "preview",
+            "source": true
           }
         }
       }
@@ -69,13 +69,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Laplace Transforms/Inverse Laplace Transforms.md",
+                "file": "Laplace Transforms/Differential Equations using Laplace Transforms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -88,7 +88,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,13 +98,15 @@
   },
   "active": "84cb7739f7f82901",
   "lastOpenFiles": [
-    "Laplace Transforms/Inverse Laplace Transforms.md",
-    "Laplace Transforms/Special Laplace Part 1.md",
-    "Laplace Transforms/Laplace Transforms.md",
     "Laplace Transforms/Differential Equations using Laplace Transforms.md",
-    "Set Theory/Sets.md",
+    "Laplace Transforms/Inverse Laplace Transforms.md",
+    "Laplace Transforms/Laplace Transforms.md",
+    "Laplace Transforms/Special Laplace Part 1.md",
     "Laplace Transforms/Special Laplace Part 2.md",
-    "[!example]Definition.md",
-    "Pasted image 20220411205854.png"
+    "Laplace Transforms/The Convolution Integral.md",
+    "Set Theory/Sets.md",
+    "Set Theory/The Cartesian Product.md",
+    "Set Theory/Subsets.md",
+    "[!example]Definition.md"
   ]
 }

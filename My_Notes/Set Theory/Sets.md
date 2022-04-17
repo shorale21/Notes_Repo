@@ -1,7 +1,14 @@
 # Sets
-- A **set** is a collection of items.
-- These items are called **elements**
-- Sets are ofted denoted with curly braces, such as $\{1, 2, 3\}$
+
+^c7baeb
+
+>[!info] Definition of Sets
+>- A set is any collection of items
+>- These items are called **elements**
+>- Sets are often denoted with curly braces, such as $\{1,2,3\}$
+
+^cfbc64
+
 - Sets can have infinite or finite elements, ex: $\{\dots,1,2,3,\dots\}$
 - Two sets are considered **equal** if they have exactly the same elements
 		- ex: $\{1,2,3\}=\{1,2,3\}$
@@ -16,3 +23,8 @@
 		- ex: If $A=\{1,2,3\}$ then $|A|=3$
 - The **empty set** is the set $\{\}$ and is usually denoted by $\varnothing$ or $\emptyset$
 - **Set builder notation** consists of $X=\{expression:rule\}$ with $:$ or $|$ meaning "such that"
+- **Interval Notation** is used to describe an interval of values, describing an infinite set. 
+		- Closed Interval: $[n_1, n_2]$
+		- Half Open Interval: $[n_1,n_2)$ or $(n_1,n_2]$
+		- Open Interval: $(n_1,n_2)$
+		- Infinite Interval: $[n_1,\infty)$ or $(-\infty,n_2]$ or $(-\infty,\infty)$

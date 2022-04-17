@@ -22,16 +22,16 @@ Note that the Laplace Transform is a linear operator, meaning it follows this si
 
 General Table of Laplace Transforms:
 
-| Function $f(t)$                        | Laplace Transform $F(s)$                                  |
-| -------------------------------------- | --------------------------------------------------------- |
-| $f(t)=t^n$, $n\:\ge\:0$                | $F(s)=\frac{n!}{s^{n+1}},\:s\:>\:0$                       |
-| $f(t)=e^{at}$,  $a$ is constant        | $F(s)=\frac{1}{s-a},\:s\:>\:a$                            |
-| $f(t)=sin(bt)$,  $b$ is constant       | $F(s)=\frac{b}{s^{2}+ b^2},\:s\:>\:0$                     |
-| $f(t)=cos(bt)$,  $b$ is constaant      | $F(s)=\frac{s}{s^{2}+ b^2},\:s\:>\:0$                     |
-| $f(t)=t^(-\frac{1}{2})$                | $F(s)=\left(\frac{\pi}{s}\right)^{\frac{1}{2}},\:s\:>\:0$ |
-| $f(t)=u_a(t)\quad$(unit step function) | $F(s)=\frac{1}{s}e^{-as}$                                 |
-| $f(t)=\delta(t-a)\quad$(dirac delta)   | $F(s)=e^{-as}$                                            |
-| $f'(t)$                                | $\mathcal{L}[f']=s\mathcal{L}[f]-f(0)$                    |
-| $f''(t)$                               | $\mathcal{L}[f'']=s^2\mathcal{L}[f]-sf(0)-f'(0)$          |
-| $e^{at}f(t)$                           | $F(s-a)$                                                  |
-| $u_a(t)f(t-a)$                         | $e^{-as}F(s)$                                             |
+| Function $f(t)$                                                            | Laplace Transform $F(s)$                                  |
+| -------------------------------------------------------------------------- | --------------------------------------------------------- |
+| $f(t)=t^n$, $n\:\ge\:0$                                                    | $F(s)=\frac{n!}{s^{n+1}},\:s\:>\:0$                       |     
+| $f(t)=e^{at}$,  $a$ is constant                                            | $F(s)=\frac{1}{s-a},\:s\:>\:a$                            |     
+| $f(t)=sin(bt)$,  $b$ is constant                                           | $F(s)=\frac{b}{s^{2}+ b^2},\:s\:>\:0$                     |     
+| $f(t)=cos(bt)$,  $b$ is constant                                          | $F(s)=\frac{s}{s^{2}+ b^2},\:s\:>\:0$                     |     
+| $f(t)=t^(-\frac{1}{2})$                                                    | $F(s)=\left(\frac{\pi}{s}\right)^{\frac{1}{2}},\:s\:>\:0$ |     
+| $f(t)=u_a(t)\quad$([[Special Laplace Part 2#^08bff2\|unit step function]]) | $F(s)=\frac{1}{s}e^{-as}$                                 |     
+| $f(t)=\delta(t-a)\quad$([[Special Laplace Part 2#^dc18ec\|dirac delta]])   | $F(s)=e^{-as}$                                            |    
+| $f'(t)$                                                                    | $\mathcal{L}[f']=s\mathcal{L}[f]-f(0)$                    |     
+| $f''(t)$                                                                   | $\mathcal{L}[f'']=s^2\mathcal{L}[f]-sf(0)-f'(0)$          |     
+| $e^{at}f(t)$                                                               | $F(s-a)$                                                  |    
+| $u_a(t)f(t-a)$                                                             | $e^{-as}F(s)$                                             |   
