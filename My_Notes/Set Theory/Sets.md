@@ -18,10 +18,10 @@
 		- Natural numbers, $\mathbb{N}=\{1,2,3,\dots\}$
 		- Integer numbers, $\mathbb{Z}=\{\dots,-2,-1,0,1,2,\dots\}$
 		- Rational numbers, $\mathbb{Q}=\{\frac{a}{b}|a\in\mathbb{Z},b\in\mathbb{Z}\}$
-		- Real numbers, $\mathbb{R}$
+		- Real numbers, $\mathbb{R}$ ^d3aac2
 - The **Cardinality** of a set describes the size, and is the number of elements. Denoted by $|A|$
-		- ex: If $A=\{1,2,3\}$ then $|A|=3$
-- The **empty set** is the set $\{\}$ and is usually denoted by $\varnothing$ or $\emptyset$
+		- ex: If $A=\{1,2,3\}$ then $|A|=3$ ^f7ff23
+- The **empty set** is the set $\{\}$ and is usually denoted by $\varnothing$ or $\emptyset$ ^a39cdf
 - **Set builder notation** consists of $X=\{expression:rule\}$ with $:$ or $|$ meaning "such that"
 - **Interval Notation** is used to describe an interval of values, describing an infinite set. 
 		- Closed Interval: $[n_1, n_2]$
