@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f6ac6b8d8eb6bc8e",
+        "id": "42ec8db74c5566ea",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Special Relativity/Momentum And Energy in Relativity.md",
+            "file": "Proofs/Direct Proof.md",
             "mode": "preview",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Special Relativity/Momentum And Energy in Relativity.md",
+                "file": "Proofs/Direct Proof.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,24 +88,25 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "f6ac6b8d8eb6bc8e",
+  "active": "42ec8db74c5566ea",
   "lastOpenFiles": [
-    "Special Relativity/Momentum And Energy in Relativity.md",
-    "Special Relativity/Velocity Transformation.md",
-    "Special Relativity/The Twin Paradox.md",
-    "Special Relativity/The Doppler Effect.md",
-    "Special Relativity/Lorentz Transformations.md",
-    "Special Relativity/Intro to Special Relativity.md",
-    "Special Relativity/Consequences of SR.md",
-    "Set Theory/Union, Intersection, Difference, Complement.md",
-    "Set Theory/The Cartesian Product.md",
-    "Set Theory/Subsets and Power Sets.md"
+    "Proofs/Direct Proof.md",
+    "Mathematical Logic/Logical Operators.md",
+    "Mathematical Logic/Negating Statements.md",
+    "Series Solutions to Diff Eq/Series Solutions around an Ordinary Point.md",
+    "Proofs/Contrapositive Proof.md",
+    "Mathematical Logic/Statements.md",
+    "Proofs.md",
+    "Mathematical Logic/Truth_Table_Storage.md",
+    "Set Theory/Sets.md",
+    "Special Relativity/The Twin Paradox.md"
   ]
 }

@@ -5,6 +5,7 @@ The key point to understand here is that in order for the second twin to return 
 >[!example] Explaining the Twin Paradox
 >To explain the twin paradox, let us reintroduce our two observers, <font style="color:lime">Observer 1</font> and <font style="color:cyan">Observer 2</font>.
 >- Say that while <font style="color:lime">Observer 1</font> stays on Earth, <font style="color:cyan">Observer 2</font> moves at constant speed (near the speed of light) away towards a point, $X$
+>  
 >- <font style="color:lime">Observer 1</font> sees <font style="color:cyan">Observer 2</font> moving away at near the speed of light, and due to [[Consequences of SR#^9271df|time dilation]] (<font style="color:lime">Observer 1</font> is moving relative to <font style="color:cyan">Observer 2</font>), sees <font style="color:cyan">Observer 2</font> aging slowly
 >- The opposite is true from <font style="color:cyan">Observer 2's</font> point of view
 >- We can now introduce a third observer, <font style="color:yellow">Observer 3</font>

@@ -7,8 +7,10 @@
 
 
 >[!important] All of the velocity transformation equations
->$$u_x'=\frac{u_x-v}{1-\frac{u_xv}{c^2}}$$
->$$u_y'=\frac{u_y}{\gamma_v\left(1-\frac{u_xv}{c^2}\right)}$$
->$$u_z'=\frac{u_z}{\gamma_v\left(1-\frac{u_xv}{c^2}\right)}$$
+>$$\begin{align*}
+u_x'&=\frac{u_x-v}{1-\frac{u_xv}{c^2}}\\\\
+u_y'&=\frac{u_y}{\gamma_v\left(1-\frac{u_xv}{c^2}\right)}\\\\
+u_z'&=\frac{u_z}{\gamma_v\left(1-\frac{u_xv}{c^2}\right)}
+\end{align*}$$
 
 ^58af0b
