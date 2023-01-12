@@ -16,3 +16,5 @@ Remember that the contrapositive is logically equivalent to the statement, and t
 &\quad\text{.}\\
 &\text{Therefore } \sim P.
 \end{align*}$$
+
+^733994

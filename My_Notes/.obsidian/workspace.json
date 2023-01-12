@@ -1,0 +1,265 @@
+{
+  "main": {
+    "id": "d6c61d7b7cc4b01d",
+    "type": "split",
+    "children": [
+      {
+        "id": "988126ce2f437178",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2395674681a76254",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vector Spaces/Eigenvectors And Upper Triangular Matrices.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9ef7a06a6e9a9753",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vector Spaces/Eigenspaces and Diagonalization.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "701ece60782956e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vector Spaces/Inner Products and Norms.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a597b1464b7ce239",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics - Mechanics/Hamiltonian Mechanics.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c55af04185fe2fe5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Series Solutions to Diff Eq/Series Sols. Around a Regular Singular Point.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "02bf95463380460a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vector Spaces/Definition of Vector Space.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "bf21b3c7d037b063",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Liquid Crystals/Mesophases of Matter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c66c1bf23fa90fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Liquid Crystals/Classifications of Liquid Crystals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57378b7542dfad43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Liquid Crystals/Phases of Liquid Crystals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "79e5f0375ec13da6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Liquid Crystals/Classifications of Liquid Crystals.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "43d8de2ec6d20659",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Electromagnetic Theory/Electrostatics.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "561c827c21e48e2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Partial Differential Equations/Green's Functions for Time-Independent Problems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 10
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a014ab313728984",
+    "type": "split",
+    "children": [
+      {
+        "id": "492bb680e746bd43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7aa767601ee118c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "d0226dead31ddb6e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 185.50000190734863
+  },
+  "right": {
+    "id": "0f39d3d4b6240260",
+    "type": "split",
+    "children": [
+      {
+        "id": "16fdd8c0801b6930",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0aaf8b0bed46cff8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Electromagnetic Theory/Electrostatics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cbfc86c8dee4b615",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "43d8de2ec6d20659",
+  "lastOpenFiles": [
+    "Liquid Crystals/Classifications of Liquid Crystals.md",
+    "Liquid Crystals/Mesophases of Matter.md",
+    "Liquid Crystals/Experimental Techniques.md",
+    "Liquid Crystals/Phases of Liquid Crystals.md",
+    "Vector Spaces/Definition of Vector Space.md",
+    "Set Theory/Sets.md",
+    "Series Solutions to Diff Eq/Series Sols. Around a Regular Singular Point.md",
+    "Series Solutions to Diff Eq/Frobenius Theory.md",
+    "Intro to Quantum Mechanics/Bound States - The Simple Harmonic Oscillator.md",
+    "Intro to Quantum Mechanics/Bound States - The Finite Well.md"
+  ]
+}

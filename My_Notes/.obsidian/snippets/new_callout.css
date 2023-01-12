@@ -1,0 +1,24 @@
+.callout[data-callout="lepton"] {
+    --callout-color: 6, 220, 5;
+    --callout-icon: '<svg>...circle.svg...</svg>';
+}
+
+.callout[data-callout="quark"] {
+    --callout-color: 135, 5, 255;
+    --callout-icon: '<svg>...circle...</svg>';
+}
+
+.callout[data-callout="boson"] {
+    --callout-color: 255, 211, 0;
+    --callout-icon: '<svg>...circle...</svg>';
+}
+
+.callout[data-callout="fermion"] {
+    --callout-color: 0, 255, 249;
+    --callout-icon: '<svg>...circle...</svg>';
+}
+
+.callout[data-callout="bos"] {
+    --callout-color: 255, 142, 0;
+    --callout-icon: '<svg>...circle...</svg>';
+}

@@ -4,6 +4,8 @@
 >		- This is denoted with the symbol "$\subseteq$"
 >		- In this example we would say "$A\subseteq B$"
 
+^610582
+
 - Note, the [[Sets#^a39cdf|empty set]] is a subset of every set, including itself
 - For the [[Sets#^d3aac2|fundamental sets]], $\mathbb{N}\subseteq\mathbb{Z}\subseteq\mathbb{Q}\subseteq\mathbb{R}$
 - If a finite set has $n$ elements, then it has $2^n$ subsets

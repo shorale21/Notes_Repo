@@ -1,3 +1,8 @@
 {
-  "baseFontSize": 12
+  "baseFontSize": 12,
+  "enabledCssSnippets": [
+    "new_callout"
+  ],
+  "accentColor": "",
+  "translucency": false
 }

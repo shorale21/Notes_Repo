@@ -1,5 +1,5 @@
 # Momentum and Energy
-Classically, momentum is described as $mu$ where $m$ is the mass and $u$ is the velocity. The total momentum of a system can be determined with the sum $\sum_{i}m_iu_i$
+Classically, momentum is described as $mu$ where $m$ is the mass and $u$ is the velocity. The total momentum of a system can be determined with the sum $\sum_{i}m_iu_i$, and is [[Newtonian Dynamics#^5b1640|conserved]]
 
 An interesting observation shows that $\sum_{i}m_iu_i$ is not conserved in *any* frame at speeds near the speed of light, violating one of the most fundamental laws of motion
 
@@ -20,3 +20,8 @@ If you add energy to an object, such as heating it up, the mass increases. This 
 >$$E_{moving}=\gamma_vmc^2$$
 >$$E_{internal}=mc^2$$
 >$$E_{kinetic}=(\gamma_v-1)mc^2$$
+
+>[!important] Relational Equations
+>An object of zero mass:$$E=pc$$
+
+^f7bd73

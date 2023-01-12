@@ -1,4 +1,7 @@
 # Basic Logical Operators
+
+^8c3800
+
 We use logical operators to symbolically notate [[Statements#^1794d4|statements]]
 
 A **Truth Table** is a table describing all possible outcomes of a logical operator
@@ -28,6 +31,8 @@ A **Truth Table** is a table describing all possible outcomes of a logical opera
 >- [[Truth_Table_Storage#^a61472|Truth table for the biconditional operator]]
 >	- This operator is essentiall equivalent to $(P\implies Q)\land (Q\implies P)$
 
+^c54ef0
+
 >[!example]+ Quantifiers
 >"$\forall$" stands for "for all" or "for every"
 >- Called the **Universal Quantifier**
@@ -53,5 +58,4 @@ A **Truth Table** is a table describing all possible outcomes of a logical opera
 >**Conditional and Quantifier Rules**
 >$$\forall x\in X, Q(x)\quad=\quad(x\in X)\implies Q(x)$$
 
-^b00fb9
-
+^b00fb

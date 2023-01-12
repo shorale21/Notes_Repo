@@ -28,3 +28,19 @@
 		- Half Open Interval: $[n_1,n_2)$ or $(n_1,n_2]$
 		- Open Interval: $(n_1,n_2)$
 		- Infinite Interval: $[n_1,\infty)$ or $(-\infty,n_2]$ or $(-\infty,\infty)$
+
+>[!example] DeMorgan's Laws for sets
+>These are version of [[Negating Statements#^ee17f3|DeMorgan's Laws]] for sets.
+>$$\begin{align*}
+\overline{A\cap B}&=\overline{A}\cup\overline{B}\\
+\overline{A\cup B}&=\overline{A}\cap\overline{B}
+\end{align*}$$
+
+>[!example] Other laws for sets
+>First is a version of the [[Logical Operators#^b00fb9|Distributive Laws]] for sets.
+>$$\begin{align*}
+A\cap(B\cup C)&=(A\cap B)\cup(A\cap C)\\
+A\cup(B\cap C)&=(A\cup B)\cap(A\cup C)\\
+A\times(B\cup C)&=(A\times B)\cup(A\times C)\\
+A\times(B\cap C)&=(A\times B)\cap(A\times C)
+\end{align*}$$

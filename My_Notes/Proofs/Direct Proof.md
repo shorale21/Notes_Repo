@@ -1,4 +1,5 @@
 # Direct Proofs
+We often like to use elements of [[Sets#^cfbc64|set theory]] and [[Logical Operators#^8c3800|mathematical logic]] to prove [[Statements#^1794d4|statements]].
 >[!example] Definition: Theorems and others
 >A **Theorem** is a statement that is true and that has been proved to be true
 >
@@ -7,6 +8,8 @@
 >A **Lemma** is a theorem whose main purpose is to prove another theorem
 >
 >A **Corollary** is a result or immediate consequnce of a theorem
+
+^ba2a06
 
 >[!important]- Helpful Definitions
 >- An integer $n$ is **even** if $n=2a$ for some integer $a\in\mathbb{Z}$
@@ -23,6 +26,8 @@
 >- Given integers $a$ and $b$ with $b>0$, there exist unique integers $q$ and $r$ for which $a=qb+r$ and $0\le r<b$
 >- Given integers $a$ and $b$, we say that $a$ and $b$ are **congruent modulo n** if $n|(a-b)$. We express this as $a\equiv b\space\text{(mod n)}$
 
+^9dcb62
+
 >[!example] Direct Proof of a Proposition
 >Consider the proposition: If $P$, then $Q$
 >To prove it, do the following:
@@ -36,3 +41,5 @@
 \end{align*}$$
 >Often times, it is useful to consider cases in order to prove things
 >If there are very similar cases, sometimes it is appropriate to use "without loss of generality" or "WLOG"
+
+^d81cb3
